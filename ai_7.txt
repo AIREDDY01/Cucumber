@@ -1,0 +1,8 @@
+Hi 
+Follow the File Barnch the files stash file in the details
+Untrack File files was used 
+git stash - U
+git add *
+git commit -m "stash the filles "
+git push origin feature
+
