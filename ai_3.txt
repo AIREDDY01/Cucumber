@@ -1,7 +1,12 @@
+
 Hi Manual testing
 Automation Testing
 like skil was Core Java , python and sql
 By using TestNg , JUnit Test , POM , DOM and DDF,KDF, Hybried Frame 
 Most of the Import of Behaviour Data Driver Frame and Test Driven Frame 
 Most Core java Person like to insert to the JBehavior of the Files
+
+
+Files was clearded in that file 
+
 
